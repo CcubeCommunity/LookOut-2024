@@ -1,8 +1,8 @@
-# LookOut 2023
+# Lookout 2023
 
 ## Introduction
 
-Welcome to LookOut 2k23. The tasks ahead are divided into two categories. The first category encompasses Primary Tasks, which are obligatory for all participants. The second category comprises Domain-specific Tasks. You are expected to engage in tasks related to the domains of your interest or the domains you wish to explore further.
+Welcome to Lookout 2k23. The tasks ahead are divided into two categories. The first category encompasses Primary Tasks, which are obligatory for all participants. The second category comprises Domain-specific Tasks. You are expected to engage in tasks related to the domains of your interest or the domains you wish to explore further.
 
 ## Primary Tasks
 
