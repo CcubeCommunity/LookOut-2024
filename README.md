@@ -31,18 +31,23 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 
 - Learn to type fast and accurately
     >To be able to type fast increases and accurately your efficiency. You can use 
-  [Typing Club](https://www.typingclub.com/), [Typing.com](https://www.typing.com/), [Keybr](https://www.keybr.com/) or any other website of your choice.
+  [Typing Club](https://www.typingclub.com/), [Typing.com](https://www.typing.com/), [Keybr](https://www.keybr.com/) or any other website of your choice.<br>
+<img src="https://i.ytimg.com/vi/fW7cuQOVFFo/maxresdefault.jpg" width="500" height="300">
 - Git and GitHub
     >Git is a version control system that allows you to track changes to files. GitHub is a cloud-based hosting 
   > service that lets you manage Git repositories. You can use [Git Handbook](https://guides.github.com/introduction/git-handbook/) to learn about Git and GitHub. You can use [Git](https://git-scm.com/) to install Git on your system. You can use [GitHub](https://github.com/) to create a GitHub account. For reference 
-  > you can also use [W<sup>3</sup>Schools](https://www.w3schools.com/git/) to learn about Git and GitHub.
+  > you can also use [W<sup>3</sup>Schools](https://www.w3schools.com/git/) to learn about Git and GitHub.<br>
+<img src="https://couponos.me/wp-content/uploads/Git-GitHub-For-Beginners-Master-Git-and-GitHub-2021.jpg" width="500" height="300">
 - Linux
     >Linux is an open-source operating system. You can use [Linux Handbook](https://linuxhandbook.com/) to learn 
   > about Linux. You can use [Ubuntu](https://ubuntu.com/) or [Kali Linux](https://www.kali.org/) or any other linux 
-  > distro of your choice. You can use [VirtualBox](https://www.virtualbox.org/) or [VMware](https://www.vmware.com/) to install linux on your system. 
+  > distro of your choice. You can use [VirtualBox](https://www.virtualbox.org/) or [VMware](https://www.vmware.com/)
+  > to install linux on your system.<br>
+<img src="https://images.ctfassets.net/lzny33ho1g45/UWH9IWnkrHogTs50L5FM8/85b518e7aedd196d2b6b541d0f90c7fb/Linux.jpg" width="500" height="300">
 - OverTheWire
     >OverTheWire is a war-game website. You can use [Bandit](https://overthewire.org/wargames/bandit/) to learn 
-  > about linux. Complete first 15 levels of Bandit.
+  > about linux. Complete first 15 levels of Bandit.<br>
+<img src="https://4.bp.blogspot.com/-HAPgapWAHdc/XHzZL--g2MI/AAAAAAAAdPs/nqI_cmTsv74CBBMPaP-VPeqhH8Xz2Xt3ACLcBGAs/s1600/1.png" width="500" height="300">
 
 ## Domains-specific Tasks
 
