@@ -26,7 +26,6 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 - The tasks are for getting to know the domains of interest. So we expect you to do the tasks on your own.
 - You can ask for help if you are stuck or need [help](#help) anywhere.
 - **Google is your best friend.** You can use it to search for anything and everything.
-- 
 
 ## Primary Tasks
 
