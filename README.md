@@ -1,8 +1,12 @@
 # LookOut 2023
 
+
+![img](https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/chandrayaan_3_live_updates_1692604453081_1692604453262.jpg)
+
+
 ## Introduction
 
-Welcome to LookOut 2k23. The tasks ahead are divided into two categories. The first category encompasses Primary Tasks, which are obligatory for all participants. The second category comprises Domain-specific Tasks. You are expected to engage in tasks related to the domains of your interest or the domains you wish to explore further.
+Welcome to LookOut 2k23 edition, our series to introductory tasks. We want to develop a working community of developers and security engineers. We are excited to have you here. Looking forward to meet you all in-person. This is a guide to help you navigate our directory and get started with the tasks. Let's **_Code, Learn, Network and Create_**.
 
 ## Primary Tasks
 
@@ -21,19 +25,19 @@ Welcome to LookOut 2k23. The tasks ahead are divided into two categories. The fi
 
 If you are stuck or need help anywhere you can ask any of the mentors.
 
-- Vighnesh Haresh Madani
-- Goutham O Shibu
-- Gautam Rajesh
-- N Sangeetha
-- Unnikrishnan (App Dev)
+- Vighnesh Haresh Madani (Game Dev, Web Dev, CyberSecurity & Coding)
+- Goutham O Shibu (CyberSecurity)
+- Gautam Rajesh (AI-ML, Back-End & Coding)
+- N Sangeetha (CyberSecurity)
+- Unnikrishnan Namboothiri E K (Web Dev & App Dev)
 
 ## Interviews
 
-Towards the end of September, interviews will be conducted to evaluate the tasks you have completed. 
+Towards the end of September, interviews will be conducted to evaluate the tasks you have completed.
 
 ## Conclusion
 
-Concluding LookOut 2k23, I wish you the best of luck with your tasks and hope you enjoy doing the taks.
+Concluding LookOut 2k23, I wish you the best of luck with your tasks and hope you enjoy doing the tasks.
 
 ---
 
