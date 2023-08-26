@@ -16,7 +16,7 @@ and Create***.
 
 ## Getting Started
 Hey there! This guide will help you get started with the tasks. Please read the [instructions](#Instructions) 
-carefully. If you have any doubts, feel free to ask any of the [us](#help).
+carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 
 ## Instructions
 - Primary tasks are to be done for all the domains.
