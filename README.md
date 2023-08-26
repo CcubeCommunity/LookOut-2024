@@ -19,7 +19,7 @@ Hey there! This guide will help you get started with the tasks. Please read the 
 carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 
 ## Instructions
-- [Primary tasks](#primary-tasks) are to be done for all the domains.
+- Primary tasks are to be done for all the domains.
 - Domain-specific tasks are to be done for the domain you have chosen.
 - You can choose more than one domain.
 - You can choose to do all the tasks.
@@ -28,7 +28,7 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 - **Google is your best friend.** You can use it to search for anything and everything.
 - 
 
-## Primary-Tasks
+## Primary Tasks
 
 - Learn to type fast and accurately
     >To be able to type fast increases and accurately your efficiency. You can use 
