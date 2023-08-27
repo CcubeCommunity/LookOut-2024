@@ -70,6 +70,6 @@ the basic topics you need to know.
   are new to computer science and programming.
 * You can always skip the optional parts.
 * You can always choose your own resources, projects and datasets.
-* You can always ask for help in the [Discord Server](https://discord.gg/PPTjzz32).
+* You can always ask for help in the [Discord Server](https://discord.com/channels/1086178685385719868/1145307700406796392).
 * After completing the [python](#1-python-) part, you can start working on the [projects](#4-hands-on-prep-). 
   You can always learn the [ML Stack](#2-ml-stack-) and [courses](#3-courses-) while working on the projects.
