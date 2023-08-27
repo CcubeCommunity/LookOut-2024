@@ -2,6 +2,15 @@
 This is the recommended path for getting started with AI/ML. But you can always choose your own path. Please read 
 the [instructions](#instructions-) carefully.
 
+## Instructions 📝
+* You can always choose your own path. Order is specifically for people who
+  are new to computer science and programming.
+* You can always skip the optional parts.
+* You can always choose your own resources, projects and datasets.
+* You can always ask for help in the [Discord Server](https://discord.com/channels/1086178685385719868/1145305120280674354).
+* After completing the [python](#1-python-) part, you can start working on the [projects](#4-hands-on-prep-).
+  You can always learn the [ML Stack](#2-ml-stack-) and [courses](#3-courses-) while working on the projects.
+
 ## 1. Python 🐍
 Learn Python! It's the most popular language for AI/ML. You can learn it in a few days. You can also learn it while 
 learning AI/ML. But it's better to learn it first.
@@ -66,12 +75,3 @@ the basic topics you need to know.
 * [Calculus](https://www.khanacademy.org/math/calculus-1)
 * [Differential Equations](https://www.khanacademy.org/math/differential-equations)
 * [Optimization](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
-
-## Instructions 📝
-* You can always choose your own path. Order is specifically for people who 
-  are new to computer science and programming.
-* You can always skip the optional parts.
-* You can always choose your own resources, projects and datasets.
-* You can always ask for help in the [Discord Server](https://discord.com/channels/1086178685385719868/1145305120280674354).
-* After completing the [python](#1-python-) part, you can start working on the [projects](#4-hands-on-prep-). 
-  You can always learn the [ML Stack](#2-ml-stack-) and [courses](#3-courses-) while working on the projects.
