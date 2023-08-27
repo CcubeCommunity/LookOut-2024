@@ -1,6 +1,6 @@
 # Getting Started
 This is the recommended path for getting started with AI/ML. But you can always choose your own path. Please read 
-the [instructions](#instructions) carefully.
+the [instructions](#instructions-) carefully.
 
 ## 1. Python 🐍
 Learn Python! It's the most popular language for AI/ML. You can learn it in a few days. You can also learn it while 
