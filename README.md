@@ -51,7 +51,7 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 - [Game Development]()
 - [App Development]()
 - [Cyber-security]()
-- [AI & ML]()
+- [AI & ML](./AI-ML)
 
 ## Help
 
