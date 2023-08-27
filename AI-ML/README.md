@@ -9,8 +9,10 @@ learning AI/ML. But it's better to learn it first.
 * [Codecademy - Learn Python](https://www.codecademy.com/learn/learn-python)
 * [FreeCodeAcademy 4h Beginner Course](https://youtu.be/rfscVS0vtbw)
 * [FreeCodeAcademy 6h Intermediate Python Programming Course](https://youtu.be/HGOBQPFzWKo)
-* **Optional**: [Python Cookbook](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)
-* **Optional**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* **Optional**: [Python Cookbook](./Books/Python%20Cookbook.pdf)
+* **Optional**: [Python Data Science Handbook](./Books/Python%20Data%20Science%20Handbook.pdf)
+
+You can download the books by clicking on the download icon in the top right corner of the content box.
 
 After having a good understanding of Python, try out these questions from [HackerRank](https://www.hackerrank.com/):
 - [The minion game](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true)
