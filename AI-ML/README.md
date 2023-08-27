@@ -1,6 +1,6 @@
 # Getting Started
 This is the recommended path for getting started with AI/ML. But you can always choose your own path. Please read 
-the [instructions](#instructions) carefully.
+the [instructions](#instructions-) carefully.
 
 ## 1. Python 🐍
 Learn Python! It's the most popular language for AI/ML. You can learn it in a few days. You can also learn it while 
@@ -9,8 +9,10 @@ learning AI/ML. But it's better to learn it first.
 * [Codecademy - Learn Python](https://www.codecademy.com/learn/learn-python)
 * [FreeCodeAcademy 4h Beginner Course](https://youtu.be/rfscVS0vtbw)
 * [FreeCodeAcademy 6h Intermediate Python Programming Course](https://youtu.be/HGOBQPFzWKo)
-* **Optional**: [Python Cookbook](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)
-* **Optional**: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* **Optional**: [Python Cookbook](./Books/Python%20Cookbook.pdf)
+* **Optional**: [Python Data Science Handbook](./Books/Python%20Data%20Science%20Handbook.pdf)
+
+You can download the books by clicking on the download icon in the top right corner of the content box.
 
 After having a good understanding of Python, try out these questions from [HackerRank](https://www.hackerrank.com/):
 - [The minion game](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true)
@@ -70,6 +72,6 @@ the basic topics you need to know.
   are new to computer science and programming.
 * You can always skip the optional parts.
 * You can always choose your own resources, projects and datasets.
-* You can always ask for help in the [Discord Server](https://discord.gg/PPTjzz32).
+* You can always ask for help in the [Discord Server](https://discord.com/channels/1086178685385719868/1145305120280674354).
 * After completing the [python](#1-python-) part, you can start working on the [projects](#4-hands-on-prep-). 
   You can always learn the [ML Stack](#2-ml-stack-) and [courses](#3-courses-) while working on the projects.
