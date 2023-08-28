@@ -14,7 +14,7 @@ We are excited to have you here.
 Looking forward to meeting you all in-person.
 This 
 is a guide to help you navigate our directory and get started with the tasks.
-Let's 
+***Let's 
 Code, Learn, 
 Network 
 and Create***.
