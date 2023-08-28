@@ -52,7 +52,7 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 
 ## Domains-specific Tasks
 
-- [App Development]()
+- [App Development](./App%20Development)
 - [Air Squad](./Air%20Squad/Trainee%20Booklet.pdf)
 - [AI & ML](./AI-ML)
 - [Cyber-security]()
