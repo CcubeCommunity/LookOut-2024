@@ -53,7 +53,7 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 ## Domains-specific Tasks
 
 - [App Development]()
-- [Air Squad]()
+- [Air Squad](./Air%20Squad)
 - [AI & ML](./AI-ML)
 - [Cyber-security]()
 - [Game Development](./Game%20Development)
