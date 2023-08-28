@@ -47,11 +47,12 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 
 ## Domains-specific Tasks
 
-- [Web Development]()
-- [Game Development]()
 - [App Development]()
-- [Cyber-security]()
+- [Air Squad]()
 - [AI & ML](./AI-ML)
+- [Cyber-security]()
+- [Game Development](./Game%20Development)
+- [Web Development]()
 
 ## Help
 

@@ -41,9 +41,14 @@ Here come some of the most popular libraries for AI/ML.
 * [Matplotlib](https://matplotlib.org/) - A comprehensive library for creating static, animated, and interactive visualizations in Python. Here is a [Matplotlib Tutorial](https://youtu.be/3Xc3CA655Y4).
 * **Optional**: [Scikit-learn](https://scikit-learn.org/stable/) - A free software machine learning library for the 
   Python 
-  programming language. Here is a [Scikit-learn Tutorial](https://youtu.be/0B5eIE_1vpU).
-* **Optional**: [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source platform for machine learning. Here is a [TensorFlow Tutorial](https://youtu.be/tPYj3fFJGjk).
-* **Optional**: [PyTorch](https://pytorch.org/) - An open source machine learning framework that accelerates the path from research prototyping to production deployment. Here is a [PyTorch Tutorial](https://youtu.be/EMXfZB8FVUA).
+  programming language. Here is a [Scikit-learn Tutorial](https://youtu.be/0B5eIE_1vpU).<br>
+  <img src="https://www.solivatech.com/assets/uploads/media-uploader/scikit-learn1624452317.png" width="800"  height="600">
+* **Optional**: [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source platform for machine learning. 
+  Here is a [TensorFlow Tutorial](https://youtu.be/tPYj3fFJGjk).<br>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTtFXWao9sbX4P__SCJhLChXRdTkVur0sJTnQp5K0MtVR7U0-l3j5Yrpx41U2YSh4N671c-Wn7dJ68xim8cGAiexDI3IOdEV_vHpMsWdsZxSYU3TUpAzNEIVOOOV3O-wxa4caTUT2VwVTTy-R6GlGji1H4lhewb9WC5nmRCzN8Ofe7yF1NW6ArPI7Q/s1600/Tensorflow-septmber-update-social%20%281%29.png" width="800" height="600">
+* **Optional**: [PyTorch](https://pytorch.org/) - An open source machine learning framework that accelerates the 
+  path from research prototyping to production deployment. Here is a [PyTorch Tutorial](https://youtu.be/EMXfZB8FVUA).<br>
+  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/pytorch-logo-flat.png" width="800" height="600">
 
 ## 3. Courses 🤖
 Now you are ready to learn AI/ML! Here are some resources to get you started.
@@ -64,7 +69,8 @@ Here are some of the datasets you can use for your projects.
 * Advanced: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 You can use [Google Colab](https://colab.google/) for your projects. It's free and easy to use. You can also use 
-[Kaggle Notebooks](https://www.kaggle.com/docs/notebooks).
+[Kaggle Notebooks](https://www.kaggle.com/docs/notebooks).<br>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*gD053DApa9pKi13o9eoAOA.jpeg" width="400" height="300"> <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/Difference-Between-Solving-Machine-Learning-Problems-On-Kaggle-Vs-Real-Life-.jpg" width="400" height="300">
 
 ## 5. Math 🧮 (Optional)
 Mathematics is the foundation of AI/ML. You can learn it while working out the projects. The following are some of 
