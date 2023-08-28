@@ -6,7 +6,7 @@ the [instructions](#instructions-) carefully.
 * You can always choose your own path. Order is specifically for people who
   are new to computer science and programming.
 * You can always skip the optional parts.
-* You can always choose your own resources, projects and datasets.
+* You can always choose your own resources, projects, and datasets.
 * You can always ask for help in the [Discord Server](https://discord.com/channels/1086178685385719868/1145305120280674354).
 * After completing the [python](#1-python-) part, you can start working on the [projects](#4-hands-on-prep-).
   You can always learn the [ML Stack](#2-ml-stack-) and [courses](#3-courses-) while working on the projects.
@@ -42,7 +42,7 @@ Here come some of the most popular libraries for AI/ML.
 * **Optional**: [Scikit-learn](https://scikit-learn.org/stable/) - A free software machine learning library for the 
   Python 
   programming language. Here is a [Scikit-learn Tutorial](https://youtu.be/0B5eIE_1vpU).<br>
-  <img src="https://www.solivatech.com/assets/uploads/media-uploader/scikit-learn1624452317.png" width="800"  height="600">
+  <img src="https://www.solivatech.com/assets/uploads/media-uploader/scikit-learn1624452317.png" width="800" height="600">
 * **Optional**: [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source platform for machine learning. 
   Here is a [TensorFlow Tutorial](https://youtu.be/tPYj3fFJGjk).<br>
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTtFXWao9sbX4P__SCJhLChXRdTkVur0sJTnQp5K0MtVR7U0-l3j5Yrpx41U2YSh4N671c-Wn7dJ68xim8cGAiexDI3IOdEV_vHpMsWdsZxSYU3TUpAzNEIVOOOV3O-wxa4caTUT2VwVTTy-R6GlGji1H4lhewb9WC5nmRCzN8Ofe7yF1NW6ArPI7Q/s1600/Tensorflow-septmber-update-social%20%281%29.png" width="800" height="600">
@@ -54,7 +54,7 @@ Here come some of the most popular libraries for AI/ML.
 Now you are ready to learn AI/ML! Here are some resources to get you started.
 * [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)
 * [Kaggle Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning)
-* [Machine Learning Specialization Andrew Ng | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) (3 Courses)
+* [Machine Learning Specialization Andrew Ng | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) (Three Courses)
 
 You can always continue with the rest of the courses in Kaggle and Coursera. But you can also start doing some 
 projects at the same time while you are learning.
