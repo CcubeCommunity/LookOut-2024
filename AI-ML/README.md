@@ -5,11 +5,13 @@ the [instructions](#instructions-) carefully.
 ## Instructions 📝
 * You can always choose your own path. Order is specifically for people who
   are new to computer science and programming.
+* If you have experience in python programming, you can skip the [python](#1-python-) part and start with the 
+  [ML Stack](#2-ml-stack-) or [Courses](#3-courses-).
 * You can always skip the optional parts.
 * You can always choose your own resources, projects, and datasets.
 * You can always ask for help in the [Discord Server](https://discord.com/channels/1086178685385719868/1145305120280674354).
 * After completing the [python](#1-python-) part, you can start working on the [projects](#4-hands-on-prep-).
-  You can always learn the [ML Stack](#2-ml-stack-) and [courses](#3-courses-) while working on the projects.
+  You can always learn the [ML Stack](#2-ml-stack-) and [Courses](#3-courses-) while working on the projects.
 
 ## 1. Python 🐍
 Learn Python! It's the most popular language for AI/ML. You can learn it in a few days. You can also learn it while 
@@ -51,7 +53,7 @@ Here come some of the most popular libraries for AI/ML.
 Now you are ready to learn AI/ML! Here are some resources to get you started.
 * [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)
 * [Kaggle Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning)
-* [Machine Learning Specialization Andrew Ng | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) (Three Courses)
+* **Optional**: [Machine Learning Specialization Andrew Ng | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) (Three Courses)
 
 You can always continue with the rest of the courses in Kaggle and Coursera. But you can also start doing some 
 projects at the same time while you are learning.
