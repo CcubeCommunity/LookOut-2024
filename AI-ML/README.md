@@ -6,7 +6,7 @@ the [instructions](#instructions-) carefully.
 * You can always choose your own path. Order is specifically for people who
   are new to computer science and programming.
 * You can always skip the optional parts.
-* You can always choose your own resources, projects and datasets.
+* You can always choose your own resources, projects, and datasets.
 * You can always ask for help in the [Discord Server](https://discord.com/channels/1086178685385719868/1145305120280674354).
 * After completing the [python](#1-python-) part, you can start working on the [projects](#4-hands-on-prep-).
   You can always learn the [ML Stack](#2-ml-stack-) and [courses](#3-courses-) while working on the projects.
@@ -41,15 +41,17 @@ Here come some of the most popular libraries for AI/ML.
 * [Matplotlib](https://matplotlib.org/) - A comprehensive library for creating static, animated, and interactive visualizations in Python. Here is a [Matplotlib Tutorial](https://youtu.be/3Xc3CA655Y4).
 * **Optional**: [Scikit-learn](https://scikit-learn.org/stable/) - A free software machine learning library for the 
   Python 
-  programming language. Here is a [Scikit-learn Tutorial](https://youtu.be/0B5eIE_1vpU).
-* **Optional**: [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source platform for machine learning. Here is a [TensorFlow Tutorial](https://youtu.be/tPYj3fFJGjk).
-* **Optional**: [PyTorch](https://pytorch.org/) - An open source machine learning framework that accelerates the path from research prototyping to production deployment. Here is a [PyTorch Tutorial](https://youtu.be/EMXfZB8FVUA).
+  programming language. Here is a [Scikit-learn Tutorial](https://youtu.be/0B5eIE_1vpU).<br>
+* **Optional**: [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source platform for machine learning. 
+  Here is a [TensorFlow Tutorial](https://youtu.be/tPYj3fFJGjk).<br>
+* **Optional**: [PyTorch](https://pytorch.org/) - An open source machine learning framework that accelerates the 
+  path from research prototyping to production deployment. Here is a [PyTorch Tutorial](https://youtu.be/EMXfZB8FVUA).<br>
 
 ## 3. Courses 🤖
 Now you are ready to learn AI/ML! Here are some resources to get you started.
 * [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)
 * [Kaggle Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning)
-* [Machine Learning Specialization Andrew Ng | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) (3 Courses)
+* [Machine Learning Specialization Andrew Ng | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) (Three Courses)
 
 You can always continue with the rest of the courses in Kaggle and Coursera. But you can also start doing some 
 projects at the same time while you are learning.
@@ -64,7 +66,8 @@ Here are some of the datasets you can use for your projects.
 * Advanced: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 You can use [Google Colab](https://colab.google/) for your projects. It's free and easy to use. You can also use 
-[Kaggle Notebooks](https://www.kaggle.com/docs/notebooks).
+[Kaggle Notebooks](https://www.kaggle.com/docs/notebooks).<br>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*gD053DApa9pKi13o9eoAOA.jpeg" width="400" height="300"> <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/08/Difference-Between-Solving-Machine-Learning-Problems-On-Kaggle-Vs-Real-Life-.jpg" width="400" height="300">
 
 ## 5. Math 🧮 (Optional)
 Mathematics is the foundation of AI/ML. You can learn it while working out the projects. The following are some of 

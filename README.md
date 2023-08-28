@@ -7,9 +7,14 @@
 
 ## Introduction
 
-Welcome to LookOut 2023 edition, our series to introductory tasks. We want to develop a working community of 
-developers and security engineers. We are excited to have you here. Looking forward to meet you all in-person. This 
-is a guide to help you navigate our directory and get started with the tasks. ***Let's 
+Welcome to LookOut 2023 edition, our series of introductory tasks.
+We want to develop a working community of 
+developers and security engineers.
+We are excited to have you here.
+Looking forward to meeting you all in-person.
+This 
+is a guide to help you navigate our directory and get started with the tasks.
+Let's 
 Code, Learn, 
 Network 
 and Create***.
@@ -43,19 +48,20 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
   > to install linux on your system.<br><img src="https://images.ctfassets.net/lzny33ho1g45/UWH9IWnkrHogTs50L5FM8/85b518e7aedd196d2b6b541d0f90c7fb/Linux.jpg" width="500" height="300">
 - OverTheWire
     >OverTheWire is a war-game website. You can use [Bandit](https://overthewire.org/wargames/bandit/) to learn 
-  > about linux. Complete first 15 levels of Bandit.<br><img src="https://4.bp.blogspot.com/-HAPgapWAHdc/XHzZL--g2MI/AAAAAAAAdPs/nqI_cmTsv74CBBMPaP-VPeqhH8Xz2Xt3ACLcBGAs/s1600/1.png" width="500" height="300">
+  > about linux. Complete the first 15 levels of Bandit.<br><img src="https://4.bp.blogspot.com/-HAPgapWAHdc/XHzZL--g2MI/AAAAAAAAdPs/nqI_cmTsv74CBBMPaP-VPeqhH8Xz2Xt3ACLcBGAs/s1600/1.png" width="500" height="300">
 
 ## Domains-specific Tasks
 
-- [Web Development]()
-- [Game Development]()
 - [App Development]()
-- [Cyber-security]()
+- [Air Squad]()
 - [AI & ML](./AI-ML)
+- [Cyber-security]()
+- [Game Development](./Game%20Development)
+- [Web Development]()
 
 ## Help
 
-If you are stuck or need help anywhere you can ask the respective mentors for assistance.
+If you are stuck or need help anywhere, you can ask the respective mentors for assistance.
 
 - Vighnesh Haresh Madani (Game Dev, Web Dev, CyberSecurity & Coding)
 - Goutham O Shibu (CyberSecurity)
