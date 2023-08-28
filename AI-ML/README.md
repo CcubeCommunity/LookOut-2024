@@ -42,13 +42,13 @@ Here come some of the most popular libraries for AI/ML.
 * **Optional**: [Scikit-learn](https://scikit-learn.org/stable/) - A free software machine learning library for the 
   Python 
   programming language. Here is a [Scikit-learn Tutorial](https://youtu.be/0B5eIE_1vpU).<br>
-  <img src="https://www.solivatech.com/assets/uploads/media-uploader/scikit-learn1624452317.png" width="800" height="600">
+  <img src="https://www.solivatech.com/assets/uploads/media-uploader/scikit-learn1624452317.png" width="400" height="300">
 * **Optional**: [TensorFlow](https://www.tensorflow.org/) - An end-to-end open source platform for machine learning. 
   Here is a [TensorFlow Tutorial](https://youtu.be/tPYj3fFJGjk).<br>
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTtFXWao9sbX4P__SCJhLChXRdTkVur0sJTnQp5K0MtVR7U0-l3j5Yrpx41U2YSh4N671c-Wn7dJ68xim8cGAiexDI3IOdEV_vHpMsWdsZxSYU3TUpAzNEIVOOOV3O-wxa4caTUT2VwVTTy-R6GlGji1H4lhewb9WC5nmRCzN8Ofe7yF1NW6ArPI7Q/s1600/Tensorflow-septmber-update-social%20%281%29.png" width="800" height="600">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTtFXWao9sbX4P__SCJhLChXRdTkVur0sJTnQp5K0MtVR7U0-l3j5Yrpx41U2YSh4N671c-Wn7dJ68xim8cGAiexDI3IOdEV_vHpMsWdsZxSYU3TUpAzNEIVOOOV3O-wxa4caTUT2VwVTTy-R6GlGji1H4lhewb9WC5nmRCzN8Ofe7yF1NW6ArPI7Q/s1600/Tensorflow-septmber-update-social%20%281%29.png" width="400" height="300">
 * **Optional**: [PyTorch](https://pytorch.org/) - An open source machine learning framework that accelerates the 
   path from research prototyping to production deployment. Here is a [PyTorch Tutorial](https://youtu.be/EMXfZB8FVUA).<br>
-  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/pytorch-logo-flat.png" width="800" height="600">
+  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/pytorch-logo-flat.png" width="400" height="300">
 
 ## 3. Courses 🤖
 Now you are ready to learn AI/ML! Here are some resources to get you started.
