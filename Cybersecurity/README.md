@@ -40,7 +40,9 @@ To set the tone for a successful cybersecurity journey, follow these guidelines:
    - Begin the intern base level and complete 12 levels with a thorough write-up as mentioned above.
 
 2. **Master Bandit Challenges (Level 1-15)** 💪
-   Conquer the [Bandit](https://overthewire.org/wargames/bandit/) challenges up to Level 10. Make sure to prepare a comprehensive write-up for each challenge.
+   Conquer the [Bandit](https://overthewire.org/wargames/bandit/) challenges up to Level 15.
+   Make sure to prepare a 
+   comprehensive write-up for each challenge.
 
 ## The Next Steps ➡️
 
