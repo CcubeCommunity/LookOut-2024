@@ -54,9 +54,9 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 
 - [App Development](./App%20Development)
 - [AI & ML](./AI-ML)
-- [Cyber-security]()
+- [Cyber-security](./Cybersecurity)
 - [Game Development](./Game%20Development)
-- [Web Development]()
+- [Web Development](./Web%20Development)
 
 ## Help
 
