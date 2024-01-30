@@ -21,7 +21,9 @@ To set the tone for a successful cybersecurity journey, follow these guidelines:
 
 5. **Points Not for Assessment**: It's important to note that you won't be assessed based on the points you receive in Cyberstart. Feel free to use hints from Cyberstart and leverage Google for further learning.
 
-## Your Initial Task Set 📋
+## YOUR INITIAL SET OF TASKS 📋
+
+**BE SURE TO MAINTAIN A WRITE-UP OF WHAT ALL YOU DO!**
 
 1. **Cyberstart.com Intern Phase** 🔐
     Starts by completing the intern phase on [CYBERSTART](https://cyberstart.com). This foundational step will lay the groundwork for your cybersecurity skills.
@@ -49,18 +51,22 @@ To set the tone for a successful cybersecurity journey, follow these guidelines:
    Start learning about how the network works through the link provided above.
 
 4. **Metasploitable**
-   Metasploitable is an intentionally vulnerable linux virtual machine that can be used to learn about several of the exploits.
-   Set up the Metasploitable VM and start testing it put.
+   Metasploitable is an intentionally vulnerable Linux virtual machine that can be used to learn about several of the exploits.
+   Set up the Metasploitable VM and start testing it.
    You can download it here - (https://docs.rapid7.com/metasploit/metasploitable-2/)
-   Referance materials - (https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/)
+   Reference materials - (https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/)
+
+5. **Start with NMAP!**
+   NMAP is a widely used reconnaissance tool that helps us to scan ports and extract other details from the target.
+   (https://nmap.org/)
+   Refer the above link for the information related to installation and functionalities.
+   
 
 ## The Next Steps ➡️
 
 Dedicate yourself to these tasks to accelerate your growth in the cybersecurity field. Engage with the community, ask questions, and cultivate your curiosity for success. 🧠💡
 
 Feel free to reach out whenever you need guidance.🛡️
-
-Be prepared for the upcoming second set of tasks!
 
 ## Three Approaches to Access the Terminal 🖥️
 
