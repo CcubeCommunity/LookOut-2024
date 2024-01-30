@@ -39,10 +39,20 @@ To set the tone for a successful cybersecurity journey, follow these guidelines:
    - Join the group.
    - Begin the intern base level and complete 12 levels with a thorough write-up as mentioned above.
 
-2. **Master Bandit Challenges (Level 1-15)** 💪
+2. **Master Bandit Challenges (FULL)** 💪
    Conquer the [Bandit](https://overthewire.org/wargames/bandit/) challenges up to Level 15.
    Make sure to prepare a 
    comprehensive write-up for each challenge.
+
+3. **Learn Networking**
+   (https://www.geeksforgeeks.org/computer-network-tutorials/?ref=ghm)
+   Start learning about how the network works through the link provided above.
+
+4. **Metasploitable**
+   Metasploitable is an intentionally vulnerable linux virtual machine that can be used to learn about several of the exploits.
+   Set up the Metasploitable VM and start testing it put.
+   You can download it here - (https://docs.rapid7.com/metasploit/metasploitable-2/)
+   Referance materials - (https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/)
 
 ## The Next Steps ➡️
 
