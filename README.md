@@ -63,11 +63,6 @@ If you are stuck or need help anywhere, you can ask the respective mentors for a
 - N Sangeetha (CyberSecurity)
 - Unnikrishnan Namboothiri E K (Web Dev & App Dev)
 
-## Interviews
-
-Towards the last week of September, interviews will be conducted to evaluate your progress. Details will be shared 
-later in the group.
-
 ---
 
 ## Document created by [@C³ Community](https://github.com/CcubeCommunity)
