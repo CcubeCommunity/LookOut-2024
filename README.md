@@ -1,8 +1,9 @@
-# LookOut 2023
+# LookOut2023/24
+
 
 ## Introduction
 
-Welcome to LookOut 2023 edition, our series of introductory tasks.
+Welcome to LookOut 2023/24 edition, our series of introductory tasks.
 We want to develop a working community of 
 developers and security engineers.
 We are excited to have you here.
@@ -14,6 +15,10 @@ Code, Learn,
 Network 
 and Create***.
 
+## Note
+
+You are supposed to complete as much as you can before February 13, as per your domain. You will be asked to submit your writeups on 13th. 
+  
 ## Getting Started
 Hey there! This guide will help you get started with the tasks. Please read the [instructions](#Instructions) 
 carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
@@ -28,19 +33,25 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 - **Google is your best friend.** You can use it to search for anything and everything.
 
 ## Primary Tasks
-
-- Learn to type fast and accurately
-    >To be able to type fast increases and accurately your efficiency. You can use 
-  [Typing Club](https://www.typingclub.com/), [Typing.com](https://www.typing.com/), [Keybr](https://www.keybr.com/) or any other website of your choice.<br><img src="https://i.ytimg.com/vi/fW7cuQOVFFo/maxresdefault.jpg" width="500" height="300">
 - Git and GitHub
     >Git is a version control system that allows you to track changes to files. GitHub is a cloud-based hosting 
   > service that lets you manage Git repositories. You can use [Git Handbook](https://guides.github.com/introduction/git-handbook/) to learn about Git and GitHub. You can use [Git](https://git-scm.com/) to install Git on your system. You can use [GitHub](https://github.com/) to create a GitHub account. For reference 
-  > you can also use [W<sup>3</sup>Schools](https://www.w3schools.com/git/) to learn about Git and GitHub.<br><img src="https://couponos.me/wp-content/uploads/Git-GitHub-For-Beginners-Master-Git-and-GitHub-2021.jpg" width="500" height="300">
-- Linux
-    >Linux is an open-source operating system. You can use [Linux Handbook](https://linuxhandbook.com/) to learn 
-  > about Linux. You can use [Ubuntu](https://ubuntu.com/) or [Kali Linux](https://www.kali.org/) or any other linux 
-  > distro of your choice. You can use [VirtualBox](https://www.virtualbox.org/) or [VMware](https://www.vmware.com/)
-  > to install linux on your system.<br><img src="https://images.ctfassets.net/lzny33ho1g45/UWH9IWnkrHogTs50L5FM8/85b518e7aedd196d2b6b541d0f90c7fb/Linux.jpg" width="500" height="300">
+  > you can also use [W<sup>3</sup>Schools](https://www.w3schools.com/git/) to learn about Git and GitHub.<br>
+  ![image](https://github.com/CcubeCommunity/LookOut-2023/assets/116518041/2ccedb0f-7134-4f56-aa91-ce944fffb927)
+
+- Virtualization
+    > Gain practical experience with virtualization using tools like [VirtualBox](https://www.virtualbox.org/) or [VMware](https://www.vmware.com/).
+    > Create and manage virtual machines to simulate different operating system environments. Explore the advanced settings and features of virtual machines to understand their customization and optimization options.
+    ![image](https://github.com/CcubeCommunity/LookOut-2023/assets/116518041/febcae24-ab28-47ef-8b02-a67076fc2132)
+    
+- HackerRank
+
+    > Sharpen your coding and problem-solving skills on HackerRank.
+    > Select your preferred language and aim to achieve at least 2 stars in it.
+    > Explore various domains like algorithms, data structures, and more to enhance your programming proficiency.
+     ![untitled-3](https://github.com/CcubeCommunity/LookOut-2023/assets/116518041/b798d33b-d710-4536-bb78-c36cb219b3a8)
+
+
 - OverTheWire
     >OverTheWire is a war-game website. You can use [Bandit](https://overthewire.org/wargames/bandit/) to learn 
   > about linux. Complete the first 15 levels of Bandit.<br><img src="https://4.bp.blogspot.com/-HAPgapWAHdc/XHzZL--g2MI/AAAAAAAAdPs/nqI_cmTsv74CBBMPaP-VPeqhH8Xz2Xt3ACLcBGAs/s1600/1.png" width="500" height="300">
@@ -62,6 +73,7 @@ If you are stuck or need help anywhere, you can ask the respective mentors for a
 - Gautam Rajesh (AI-ML, Back-End & Coding)
 - N Sangeetha (CyberSecurity)
 - Unnikrishnan Namboothiri E K (Web Dev & App Dev)
+
 
 ---
 
