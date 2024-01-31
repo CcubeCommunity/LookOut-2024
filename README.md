@@ -1,9 +1,9 @@
-# LookOut2023/24
+# LookOut2023
 
 
 ## Introduction
 
-Welcome to LookOut 2023/24 edition, our series of introductory tasks.
+Welcome to LookOut 2023 edition, our series of introductory tasks.
 We want to develop a working community of 
 developers and security engineers.
 We are excited to have you here.
