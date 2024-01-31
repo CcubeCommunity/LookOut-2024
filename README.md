@@ -1,10 +1,5 @@
 # LookOut 2023
 
-
-![img](https://www.hindustantimes.com/ht-img/img/2023/08/21/1600x900/chandrayaan_3_live_updates_1692604453081_1692604453262.jpg)
-##### C<sup>3</sup> celebrates the success of Chandrayaan 3 and salutes all the scientists and engineers who made it possible.
-
-
 ## Introduction
 
 Welcome to LookOut 2023 edition, our series of introductory tasks.
