@@ -5,13 +5,12 @@ the [instructions](#instructions-) carefully.
 ## Instructions 📝
 * You can always choose your own path. Order is specifically for people who
   are new to computer science and programming.
+* It's madatory to start with a hands-on prep task considering you already know python programming.
+* Also it is madatory to post status update every day and you are required to keep a writeup of the tasks you are doing.
 * If you have experience in python programming, you can skip the [python](#1-python-) part and start with the 
-  [ML Stack](#2-ml-stack-) or [Courses](#3-courses-).
+  [Hands-on prep](#4-hands-on-prep-).
 * You can always skip the optional parts.
 * You can always choose your own resources, projects, and datasets.
-* You can always ask for help in the [Discord Server](https://discord.com/channels/1086178685385719868/1145305120280674354).
-* After completing the [python](#1-python-) part, you can start working on the [projects](#4-hands-on-prep-).
-  You can always learn the [ML Stack](#2-ml-stack-) and [Courses](#3-courses-) while working on the projects.
 
 ## 1. Python 🐍
 Learn Python! It's the most popular language for AI/ML. You can learn it in a few days. You can also learn it while 
